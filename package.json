@@ -1,9 +1,30 @@
 {
   "name": "simplecolors",
-  "title": "Override Colors",
+  "title": "Simple Colors",
   "id": "jid1-jzfDYBFuR2vR3w",
-  "description": "Suppress page specific colors and use simple black on white text",
+  "description": "Use user defined colors on web pages",
   "author": "Eitan Isaacson <eitan@monotonous.org>",
   "license": "MPL 2.0",
-  "version": "0.1"
+  "version": "0.1",
+  "preferences": [{
+        "name": "background_color",
+        "title": "Background color",
+        "type": "string",
+        "value": "#ffffff"
+    }, {
+        "name": "foreground_color",
+        "title": "Foreground color",
+        "type": "string",
+        "value": "#000000"
+    }, {
+        "name": "anchor_color",
+        "title": "Link color",
+        "type": "string",
+        "value": "#0000ff"
+    }, {
+        "name": "visited_color",
+        "title": "Visited link color",
+        "type": "string",
+        "value": "#551a8b"
+    }]
 }
