@@ -1,0 +1,9 @@
+{
+  "name": "simplecolors",
+  "title": "Override Colors",
+  "id": "jid1-jzfDYBFuR2vR3w",
+  "description": "Suppress page specific colors and use simple black on white text",
+  "author": "Eitan Isaacson <eitan@monotonous.org>",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
