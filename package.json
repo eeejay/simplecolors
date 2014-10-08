@@ -1,7 +1,7 @@
 {
-  "name": "simplecolors",
-  "title": "Simple Colors",
-  "id": "jid1-jzfDYBFuR2vR3w",
+  "name": "remove-doc-colors",
+  "title": "Remove Document Colors",
+  "id": "remove-doc-colors@monotonous.org",
   "description": "Use user defined colors on web pages",
   "author": "Eitan Isaacson <eitan@monotonous.org>",
   "license": "MPL 2.0",
